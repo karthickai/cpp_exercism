@@ -1,0 +1,6 @@
+*/.exercism/
+*/.vs/
+*/out/
+/cpp/hello-world/.exercism
+/cpp/hello-world/.vs
+/cpp/hello-world/out/build/x64-Debug
